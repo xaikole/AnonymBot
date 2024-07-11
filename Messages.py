@@ -1,6 +1,6 @@
 m_start = "⚡️ SELAMAT DATANG ⚡️\n\n🇮🇩 Semoga Dapat teman atau jodoh\n\n🇳🇿 I hope you can make a friend or a partner\n\n"
 
-m_not_free_users = (
+m_is_not_free_users = (
     "sedang mencari pasangan mohon bersabar..."
 )
 
