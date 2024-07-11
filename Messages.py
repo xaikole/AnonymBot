@@ -1,22 +1,22 @@
-m_start = "⚡️ SELAMAT DATANG ⚡️\n\n🇮🇩 Semoga Dapat teman atau jodoh\n\n🇳🇿 I hope you can make a friend or a partner\n\n"
+m_start = "⚡️ SELAMAT DATANG ⚡️\n\n🇮🇩 Semoga Dapat teman atau jodoh"
 
 m_is_not_free_users = (
     "sedang mencari pasangan mohon bersabar..."
 )
 
-m_is_connect = "✅ Anda sudah berada di dalam obrolan, silahkan kirim chat anda\n\n✅ You are already in the chat, please send your chat"
+m_is_connect = "✅ Anda sudah berada di dalam obrolan, silahkan kirim chat anda"
 
 m_play_again = "Apakah Anda Ingin mengobrol dengan orang lain?\n\n"
 
 m_is_not_user_name = "❌ Maaf, bot kami hanya dapat berkomunikasi jika Anda memiliki nama pengguna\n\n❌"
 
-m_good_bye = "❌ Maaf lawan bicara anda meninggalkan obrolan\n\n❌"
+m_good_bye = "❌ Maaf lawan bicara anda meninggalkan obrolan❌"
 
-m_disconnect_user = "Maaf sambungan telah terputus!\n\n"
+m_disconnect_user = "Maaf obrolan telah terputus!"
 
-m_failed = "❌ Terjadi kesalahan!\n\n❌ Loss happened"
+m_failed = "❌ Terjadi kesalahan!"
 
-m_like = "✅ Anda mengerimkan username kepada lawan bicara!\n\n✅"
+m_like = "✅ Anda mengerimkan username kepada lawan bicara!"
 
 m_dislike_user = "Obrolan Telah Berakhir\n\nChat Has Ended"
 
